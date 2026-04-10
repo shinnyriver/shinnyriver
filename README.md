@@ -6,6 +6,9 @@
 
   
  <br/>
+
+ [![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjY2OTU0NzQ1)](https://www.git-ranker.com)
+
  <br/>
   
 ####  :clipboard: Once I've Used 
@@ -26,13 +29,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
- 
-  <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnyriver&show_icons=true&theme=tokyonight)
-  <br/>
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnyriver&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
